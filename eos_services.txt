@@ -1,0 +1,42 @@
+# 운영체제 (OS)
+windows          7
+windows_server   2008
+ubuntu           18.04
+centos           7
+redhat           7
+debian           9
+fedora           30
+macos            10.14
+android          8.0
+ios              12
+
+# Well-known 포트와 서비스
+ftp              0.17
+ssh              7.4
+telnet           0.17
+smtp             1.0
+dns              9.11.3
+http             2.4.48
+https            1.18.0
+pop3             1.110
+imap             1.210
+mysql            5.7
+postgresql       9.6
+mssql            12.0
+oracle           12c
+mongodb          4.0
+redis            5.0
+elasticsearch    6.8
+apache           2.4.48
+nginx            1.18.0
+vsftpd           3.0.3
+openssl          1.0.2
+java             8u202
+php              5.6
+python           2.7
+perl             5.28
+nodejs           10.24.1
+ruby             2.5
+go               1.13
+kubernetes       1.14
+docker           19.03.0

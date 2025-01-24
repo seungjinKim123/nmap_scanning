@@ -38,6 +38,12 @@ python main.py
 ```
 3. Check the 'outputs' folder for XML results.
 
+## Running Tests
+```
+export PYTHONPATH=$(pwd)
+python3 -m pytest tests/
+```
+
 ## License
 MIT License
 
@@ -55,6 +61,7 @@ project/
 │   ├── xml_manager.py      # XML 생성 및 분석 모듈
 │   └── utils.py            # 기타 유틸리티 함수 모듈
 ├── outputs/                # 결과 XML 저장 폴더 (Git에서 제외됨)
+├── tests/                  # 개발 테스트 파일 폴더
 │
 ├── .gitignore              # Git 무시 파일
 └── README.md               # 프로젝트 설명 파일
